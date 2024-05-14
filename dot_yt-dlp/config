@@ -1,0 +1,7 @@
+-S hasvid,res,quality,vcodec:av1
+-f bv+ba
+--sponsorblock-remove sponsor
+--cookies-from-browser chrome
+--mark-watched
+--embed-chapters
+--concurrent-fragments 4
